@@ -1,0 +1,13 @@
+C:\Users\Mama\source\repos\Kolko_I_Krzyzyk\Kolko_I_Krzyzyk\bin\Debug\netcoreapp3.1\Kolko_I_Krzyzyk.exe
+C:\Users\Mama\source\repos\Kolko_I_Krzyzyk\Kolko_I_Krzyzyk\bin\Debug\netcoreapp3.1\Kolko_I_Krzyzyk.deps.json
+C:\Users\Mama\source\repos\Kolko_I_Krzyzyk\Kolko_I_Krzyzyk\bin\Debug\netcoreapp3.1\Kolko_I_Krzyzyk.runtimeconfig.json
+C:\Users\Mama\source\repos\Kolko_I_Krzyzyk\Kolko_I_Krzyzyk\bin\Debug\netcoreapp3.1\Kolko_I_Krzyzyk.runtimeconfig.dev.json
+C:\Users\Mama\source\repos\Kolko_I_Krzyzyk\Kolko_I_Krzyzyk\bin\Debug\netcoreapp3.1\Kolko_I_Krzyzyk.dll
+C:\Users\Mama\source\repos\Kolko_I_Krzyzyk\Kolko_I_Krzyzyk\bin\Debug\netcoreapp3.1\Kolko_I_Krzyzyk.pdb
+C:\Users\Mama\source\repos\Kolko_I_Krzyzyk\Kolko_I_Krzyzyk\obj\Debug\netcoreapp3.1\Kolko_I_Krzyzyk.csprojAssemblyReference.cache
+C:\Users\Mama\source\repos\Kolko_I_Krzyzyk\Kolko_I_Krzyzyk\obj\Debug\netcoreapp3.1\Kolko_I_Krzyzyk.AssemblyInfoInputs.cache
+C:\Users\Mama\source\repos\Kolko_I_Krzyzyk\Kolko_I_Krzyzyk\obj\Debug\netcoreapp3.1\Kolko_I_Krzyzyk.AssemblyInfo.cs
+C:\Users\Mama\source\repos\Kolko_I_Krzyzyk\Kolko_I_Krzyzyk\obj\Debug\netcoreapp3.1\Kolko_I_Krzyzyk.csproj.CoreCompileInputs.cache
+C:\Users\Mama\source\repos\Kolko_I_Krzyzyk\Kolko_I_Krzyzyk\obj\Debug\netcoreapp3.1\Kolko_I_Krzyzyk.dll
+C:\Users\Mama\source\repos\Kolko_I_Krzyzyk\Kolko_I_Krzyzyk\obj\Debug\netcoreapp3.1\Kolko_I_Krzyzyk.pdb
+C:\Users\Mama\source\repos\Kolko_I_Krzyzyk\Kolko_I_Krzyzyk\obj\Debug\netcoreapp3.1\Kolko_I_Krzyzyk.genruntimeconfig.cache
